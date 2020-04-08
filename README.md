@@ -12,7 +12,7 @@ staged = "pronto para ser commitado {criado uma versao dele}"
 
 
 
-![Imagem_Ciclo_Git](https://github.com/hugoleogs/Comandos_Git/blob/master/git.png)
+![Imagem_Ciclo_Git](https://github.com/hugoleogs/comandos_git_github/blob/master/git.png)
 
 
 ### Comandos do GIT
