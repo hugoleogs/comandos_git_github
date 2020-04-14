@@ -48,6 +48,7 @@ git branch -D 'nome_do_branch'                       | Apaga o branch selecionad
 git remote                                           | permite criar, ver e excluir conexões com outros repositórios
 git remote -v                                        | Igual ao comando acima, mas inclui a URL de cada conexão
 git push origin master                               | Usado para subir o seu commit para o seu diretorio no github
+git push -f origin master                            | Usado para forçar a subida do seu commit para o diretorio
 git tag -a x.x.x -m "descrição"                      | Cria uma tag
 git push origin master --tags                        | Sobe a tag para o github
 
