@@ -51,7 +51,7 @@ git push origin master                               | Usado para subir o seu co
 git push -f origin master                            | Usado para forçar a subida do seu commit para o diretorio
 git tag -a x.x.x -m "descrição"                      | Cria uma tag
 git push origin master --tags                        | Sobe a tag para o github
-
+git pull                                             | Incorpora mudanças de um repositório remoto para o branch local.
 
 ### Desfazendo commits                             
 Comandos                                            | Descrição
